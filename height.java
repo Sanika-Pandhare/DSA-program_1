@@ -1,4 +1,4 @@
-public class height {
+public class Height {
 
     public static int  calcpower(int x,int n)
     {
@@ -24,3 +24,4 @@ public class height {
     }
     
 }
+
